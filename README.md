@@ -1,7 +1,7 @@
 <h1 align="center">Heyy , I'm Nandini Jain</h1>
 <h3 align="center">A new and efficient mind</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, javascript, spring**
+- 🌱 I’m currently learning **React, spring**
 
 - 💬 Ask me about **PS, figma, video editing**
 
