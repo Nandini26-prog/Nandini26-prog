@@ -1,7 +1,7 @@
 <h1 align="center">Hey there</h1>
 <h3 align="center">A new and efficient mind</h3>
 
-- 🌱 I’m currently learning **Full-stack developement**
+- 🌱 I’m currently learning **AR/VR developement**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
